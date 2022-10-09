@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://rotoforge.com/</loc>
+         <loc>https://www.rotoforge.com/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rotoforge.com/bom/</loc>
+         <loc>https://www.rotoforge.com/bom/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rotoforge.com/contributing/</loc>
+         <loc>https://www.rotoforge.com/contributing/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rotoforge.com/roadmap/</loc>
+         <loc>https://www.rotoforge.com/roadmap/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
