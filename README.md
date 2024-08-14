@@ -1,5 +1,11 @@
 # rotoforge-website
-a webpage for storing all the documentation relating to the rotoforge project
+A repository containing introductory documentation relating to the rotoforge project
+
+## How to Add a Page
+
+Mkdocs is configured to automatically index and publish any markdown file in the `source` directory. 
+
+To create a new section, create a directory and place your markdown files in there. An empty folder will not be indexed.
 
 ## Building Mkdocs Static Site
 
