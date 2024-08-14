@@ -5,9 +5,6 @@ site_url: https://rotoforge.com
 
 theme: readthedocs
 
-extra_css:
-  - css/extra.css
-
 plugins:
   - awesome-pages:
       collapse_single_pages: true
