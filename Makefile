@@ -1,4 +1,4 @@
-default: build deploy
+default: build
 venv:
 	python3 -m venv --clear venv
 setup: requirements.txt
